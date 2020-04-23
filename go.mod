@@ -1,3 +1,1 @@
-module github.com/depressi0n/testmod
-
-go 1.14
+module github.com/depressi0n/testmod/v2
