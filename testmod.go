@@ -1,6 +1,6 @@
 package testmod
-//I have a mistake.
-import （
+//I have two mistake.
+import (
 	"fmt"
 	"errors"
 ) 
