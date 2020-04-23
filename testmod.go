@@ -2,7 +2,7 @@ package testmod
 
 import （
 	"fmt"
-	“errors"
+	"errors"
 ) 
 
 // Hi returns a friendly greeting in language lang
